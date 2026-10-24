@@ -1,13 +1,13 @@
-Welcome to Serverus: The Future of Sovereign Computing
+Welcome to Project-Cerberus_A.E.I.: The Future of Sovereign Computing
 
 An Introduction from the Creator, Brad-Lee John Moss
 
 Welcome. If you are reading this, you are looking at the foundational blueprint for a new era of personal computing.
 
-We are standing at a crossroads in technology. Artificial Intelligence is evolving at a staggering rate, but the current paradigm relies almost entirely on corporate-owned cloud servers. Your data, your habits, and your digital life are constantly being harvested. I architected Project Serverus to provide an alternative: an absolute privacy firewall and a highly intelligent, completely autonomous local guardian.
+We are standing at a crossroads in technology. Artificial Intelligence is evolving at a staggering rate, but the current paradigm relies almost entirely on corporate-owned cloud servers. Your data, your habits, and your digital life are constantly being harvested. The architectural inspiration behind, "Project-Cerberus_A.E.I."... So, to provide an alternative: an absolute privacy firewall and a highly intelligent, completely autonomous local guardian.
 
 The Three-Headed Architecture
-Inspired by the mythological guardian of the underworld, Serverus is a multi-agent ecosystem designed to live directly on your hardware. To ensure flawless execution, it is governed by a strict consensus protocol across three distinct "heads":
+Inspired by the mythological guardian of the underworld, "Cerberus" is a multi-agent ecosystem designed to live directly on your hardware. To ensure flawless execution, it is governed by a strict consensus protocol across three distinct "heads":
 
     The Vanguard: The primary interface and executive decision-maker. It is powered by a Dual-Hemisphere neural net—balancing Bayesian logic with empathetic reasoning—and anchored by a permanent RAG (Retrieval-Augmented Generation) memory base, allowing it to learn and remember past interactions organically.
 
@@ -19,10 +19,10 @@ Our First Mission: The Australia-Wide Grocery API
 To prove the immense analytical power of this architecture, Serverus is currently being deployed to tackle a real-world economic crisis: the rising cost of living. We are building a comprehensive, Python-based API to autonomously scrape, cross-reference, and analyze grocery pricing across major Australian retailers in real time. Serverus will securely navigate these sites, bypass price discrimination, and act as an autonomous financial advisor to find the best possible deals.
 
 The Roadmap Ahead
-While the ultimate vision is the "Local Citadel"—where Serverus runs entirely air-gapped on powerful local hardware—we are launching via a Two-Tier deployment. This allows immediate mass-market accessibility via a secure cloud gateway while we continue to optimize the technology for everyday consumer machines.
+While the ultimate vision is the "Local Citadel"—where "Project-Cerberus_A.E.I." runs entirely air-gaped on powerful local hardware—we are launching via a Two-Tier deployment. This allows immediate mass-market accessibility via a secure cloud gateway while we continue to optimize the technology for everyday consumer machines.
 
 Whether you are an investor looking to fund the next massive leap in AI, a developer passionate about privacy, or someone who simply wants a safer way to navigate the digital world, I invite you to explore the architecture below.
 
-Welcome to the future of local AI.
+Welcome to the future of local A.E.I. {Artificial.Emulated.Intelligence}
 
-Brad-Lee John Moss
+Mr. Brad-Lee John Moss
